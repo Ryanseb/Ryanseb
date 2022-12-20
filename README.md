@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, i'm Ryan Sebastian, a self taught front end developer. Currently studying in Year 10. 
+Hi, i'm Ryan Sebastian, a student who is passionate about computers. Working on my github profile :) 
 
 **languages and tools:**  
 
