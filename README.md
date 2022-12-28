@@ -21,7 +21,7 @@
 Hi, i'm Ryan Sebastian, a student who is passionate about computers. Working on my github profile atm :). Some things wont work in this Github working on it , sorry <3
   
 <h2 align="center">Socials <img src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/cat.gif" width="50"></h2>
-
+<p align="center">
 [<img align="left" alt="Phantom | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/UCgHubhYkcBl7uTa_U1c1U_g)
 <a href="楽 | MudGod.exe#8469">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
