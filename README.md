@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, i'm Ryan Sebastian, a student who is passionate about computers. Working on my github profile atm :). Some things wont work in this Github working on it , sorry <3
+Hi, i'm Ryan Sebastian, a student who is passionate about computers. Working on my github profile atm :). Some things wont work in this Github working on it and gotta upload all my projects :o
   
 <h2 align="center">Socials <img src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/cat.gif" width="50"></h2>
 
