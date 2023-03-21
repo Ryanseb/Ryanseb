@@ -22,12 +22,13 @@ Hi, i'm Ryan Sebastian, a student who is passionate about computers. Working on 
   
 <h2 align="center">Socials <img src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/cat.gif" width="50"></h2>
 
-[<img align="center" alt=" YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/UCgHubhYkcBl7uTa_U1c1U_g)
+<p align="center>
+[<img alt=" YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/UCgHubhYkcBl7uTa_U1c1U_g)
 <a href="楽 | MudGod.exe#8469">
-  <img align="center" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img  alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-[<img align="center" alt="Instagram | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/_.ryan.exe._/)
-</br>
+[<img alt="Instagram | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/_.ryan.exe._/)
+
 
 
 
