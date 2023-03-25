@@ -23,10 +23,10 @@ Hi, i'm Ryan Sebastian, a student who is passionate about computers. Working on 
 <h2 align="center">Socials <img src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/cat.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://open.spotify.com/user/mtjdb6nh1mjzejox1v3drys3a?si=32883bc4cfe14411" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/mtjdb6nh1mjzejox1v3drys3a?si=32883bc4cfe14411" target="_blank"><img height="30" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/spotify.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/_.ryan.exe._/" target="_blank"><img height="30" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@ryanseb07" target="_blank"><img height="30" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/youtube.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
