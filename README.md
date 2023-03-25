@@ -23,9 +23,9 @@ Hi, i'm Ryan Sebastian, a student who is passionate about computers. Working on 
 <h2 align="center">Socials <img src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/cat.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://open.spotify.com/user/mtjdb6nh1mjzejox1v3drys3a?si=32883bc4cfe14411" target="_blank"><img height="30" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/spotify.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_.ryan.exe._/" target="_blank"><img height="40" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@ryanseb07" target="_blank"><img height="30" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/youtube.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/mtjdb6nh1mjzejox1v3drys3a?si=32883bc4cfe14411" target="_blank"><img height="30" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/spotify.png"></a>&nbsp;
+<a href="https://www.instagram.com/_.ryan.exe._/" target="_blank"><img height="35" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/instagram.png"></a>&nbsp;
+<a href="https://www.youtube.com/@ryanseb07" target="_blank"><img height="30" src="https://github.com/Ryanseb/Ryanseb/blob/main/assets/youtube.png"></a>&nbsp;
 </p>
 
 
